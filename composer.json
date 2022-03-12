@@ -1,0 +1,20 @@
+{
+    "name": "blitz/sitemap",
+    "description": "sitemap generator",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "blitz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "blitz\\sitemap\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
